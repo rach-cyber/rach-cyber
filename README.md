@@ -1,6 +1,6 @@
 ## Hi there, Im Rachel 👋
 
-👋 Hi! I'm a Computer Science student with a diploma in Big Data Analysis.<br/>
+👋 Hi! I'm a Computer Science student majoring in Big Data Analysis.<br/>
 🔍 I’m passionate about using data and code to solve real-world problems.<br/>
 💡 Currently exploring the intersection of data science and web development.<br/>
 💻 Skills: Python | SQL | JavaScript | HTML | CSS<br/>
